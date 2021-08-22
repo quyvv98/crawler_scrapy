@@ -1,0 +1,5 @@
+.vscode
+crawler/spiders/__pycache__/
+crawler/__pycache__/
+crawler/data/
+.idea
